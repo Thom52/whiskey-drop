@@ -4,7 +4,9 @@ body {
 
 .alert-container {}
 
-.callout-container {}
+.callout-container {
+    height: 100vh;
+}
 
 .quotes-container {}
 
