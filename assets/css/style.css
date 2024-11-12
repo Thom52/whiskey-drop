@@ -22,7 +22,12 @@ body {
 
 .features-container {}
 
+
 /* Jumbotron */
+
+.jumbotron {
+    background-color: transparent;
+}
 
 .jumbotron-header {
     color: white;
