@@ -73,6 +73,13 @@ body {
     width: 35px;
 }
 
+/* Content Containers */
+
+.content-container {
+    padding-top: 75px;
+    padding-bottom: 75px;
+}
+
 /* Navbar */
 
 .navalert-container {
