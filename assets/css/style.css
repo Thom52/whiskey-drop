@@ -68,6 +68,10 @@ body {
     background-color: #f05f40;
 }
 
+.block.divider--short {
+    width: 35px;
+}
+
 /* Navbar */
 
 .navalert-container {
