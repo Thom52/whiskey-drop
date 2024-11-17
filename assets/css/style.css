@@ -76,6 +76,10 @@ body {
     background-color: #f05f40;
 }
 
+.block-divider--white {
+    background: white;
+}
+
 .block-divider--short {
     width: 35px;
 }
