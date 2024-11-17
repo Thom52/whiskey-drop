@@ -44,6 +44,18 @@ body {
 
 .features-container {}
 
+/* Page Headers */
+
+.page-header {
+    margin-bottom: 0;
+    margin-top: 0;
+    text-align: center;
+}
+
+.page-header h2 {
+    margin-top: 0;
+}
+
 /* Block Dividers */
 
 .block-divider {
